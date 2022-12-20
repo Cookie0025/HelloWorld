@@ -4,5 +4,7 @@ public class Main {
         System.out.println("local");
         System.out.println("remote test");
         System.out.println("local test");
+        System.out.println("local test2");
+
     }
 }
